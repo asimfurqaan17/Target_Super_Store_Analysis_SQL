@@ -1,3 +1,8 @@
+
+LINK TO THE DATASET: https://drive.google.com/drive/folders/1K2uTG0kpPqZ65PhVhQNTFgyfEqES_dWt
+
+
+
 # Target_Super_Store_Analysis_SQL
 Answered Industry Level Questions Regarding Target's Data. 
 
